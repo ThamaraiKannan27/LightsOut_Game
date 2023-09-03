@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Amazing Light Out Game Using React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I Have Built this project using React Js during this project I have learned state management in react, Animation in CSS.
+
+![image](https://github.com/ThamaraiKannan27/LightsOut_Game/assets/127646447/d8078751-f899-4b8f-bfe5-82c14f39c245)
+
 
 ## Available Scripts
 
