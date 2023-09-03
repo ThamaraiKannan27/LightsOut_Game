@@ -1,0 +1,20 @@
+:root{
+  --size : 25px;
+  --blue : #12e7e7;
+  --orange:#fea501;
+}
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+html,body{
+  margin:0;
+  padding:0;
+  height: 100vh;
+  background: rgb(33, 33, 33)
+}
+.App{
+  font-family: 'Monoton', cursive;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: calc(var(--size)*2);
+}
